@@ -1,0 +1,78 @@
+/*-- For styling purposes:
+ selector {
+    color
+    styling
+    display
+    aligning
+    sizing
+ }
+--*/
+
+/*-- CSS for body --*/
+body {
+    background: url(beige-pattern-background.jpg) 1px 1px / 30% auto;
+}
+
+/*-- CSS for title's div --*/
+.title {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+}
+
+/*-- CSS for title --*/
+.title p {
+    color: rgb(210, 176, 5);
+    background-color: rgb(245, 245, 220, 0.6);
+    border-radius: 0.5rem;
+    font-size: 4rem;
+    font-family: sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+
+/*-- CSS for img's div --*/
+.image {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+}
+/*-- CSS for img --*/
+.image img {
+    display: inline-block;
+    text-align: center;
+}
+
+/*-- CSS for description's div --*/
+.description {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+}
+/*-- CSS for description --*/
+.description p {
+    color: rgb(210, 176, 5);
+    background-color: rgb(245, 245, 220, 0.6);
+    border-radius: 0.5rem;
+    font-size: 1.8rem;
+    font-family: sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+
+/*-- CSS for description2's div --*/
+.description2 {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+}
+/*-- CSS for description2 --*/
+.description2 div {
+    color: rgb(210, 176, 5);
+    background-color: rgb(245, 245, 220, 0.6);
+    border-radius: 0.5rem;
+    font-size: 1.8rem;
+    font-family: sans-serif;
+    display: inline-block;
+    text-align: center;
+}
