@@ -11,16 +11,15 @@
 /*-- CSS for body --*/
 body {
     background: url(beige-pattern-background.jpg) 1px 1px / 30% auto;
-}
-
-/*-- CSS for title's div --*/
+} 
+/*-- CSS for title --*/
 .title {
     display: block;
     text-align: center;
     margin: 15px auto;
 }
 
-/*-- CSS for title --*/
+/*-- CSS for title's div --*/
 .title p {
     color: rgb(210, 176, 5);
     background-color: rgb(245, 245, 220, 0.6);
@@ -31,25 +30,25 @@ body {
     text-align: center;
 }
 
-/*-- CSS for img's div --*/
+/*-- CSS for img --*/
 .image {
     display: block;
     text-align: center;
     margin: 15px auto;
 }
-/*-- CSS for img --*/
+/*-- CSS for img's img --*/
 .image img {
     display: inline-block;
     text-align: center;
 }
 
-/*-- CSS for description's div --*/
+/*-- CSS for description --*/
 .description {
     display: block;
     text-align: center;
     margin: 15px auto;
 }
-/*-- CSS for description --*/
+/*-- CSS for description's div --*/
 .description p {
     color: rgb(210, 176, 5);
     background-color: rgb(245, 245, 220, 0.6);
@@ -60,13 +59,14 @@ body {
     text-align: center;
 }
 
-/*-- CSS for description2's div --*/
+/*-- CSS for description2 --*/
 .description2 {
     display: block;
     text-align: center;
     margin: 15px auto;
 }
-/*-- CSS for description2 --*/
+
+/*-- CSS for description2's div --*/
 .description2 div {
     color: rgb(210, 176, 5);
     background-color: rgb(245, 245, 220, 0.6);
