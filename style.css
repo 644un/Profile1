@@ -76,3 +76,7 @@ body {
     display: inline-block;
     text-align: center;
 }
+
+audio {
+    text-align: center;
+}
