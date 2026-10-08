@@ -77,6 +77,12 @@ body {
     text-align: center;
 }
 
+.Music {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+}
+
 .CopyrightTag {
     display: block;
     text-align: center;
